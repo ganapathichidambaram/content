@@ -14,7 +14,7 @@ tags:
 - {{Interwiki("wikipedia", "HTTPS")}} on Wikipedia
 - [Moving to HTTPS community guide](https://movingtohttps.com/)
 - [Secure Contexts](/en-US/docs/Web/Security/Secure_Contexts)
-- [MDN Web Docs Glossary](/en-US/docs/Glossary)
+- [TechnoBureau Docs Glossary](/en-US/docs/Glossary)
 
   - {{glossary("HTTP")}}
   - {{glossary("SSL")}}

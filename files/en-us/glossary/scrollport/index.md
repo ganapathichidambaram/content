@@ -9,7 +9,7 @@ The **scrollport** is the visual viewport of a {{glossary("Scroll container", "s
 
 ## See also
 
-- [MDN Web Docs Glossary](/en-US/docs/Glossary):
+- [TechnoBureau Docs Glossary](/en-US/docs/Glossary):
 
   - {{glossary("Scroll container")}}
   - {{glossary("Scrollport")}}

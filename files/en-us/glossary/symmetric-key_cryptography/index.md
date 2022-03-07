@@ -17,7 +17,7 @@ Most symmetric-key algorithms currently in use are block ciphers: this means tha
 
 ## See also
 
-- [MDN Web Docs Glossary](/en-US/docs/Glossary)
+- [TechnoBureau Docs Glossary](/en-US/docs/Glossary)
 
   - {{Glossary("Block cipher mode of operation")}}
   - {{Glossary("Cryptography")}}

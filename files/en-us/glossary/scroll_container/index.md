@@ -11,7 +11,7 @@ The scroll container allows the user to scroll through parts of the overflow reg
 
 ## See also
 
-- [MDN Web Docs Glossary](/en-US/docs/Glossary):
+- [TechnoBureau Docs Glossary](/en-US/docs/Glossary):
 
   - {{glossary("Scroll container")}}
   - {{glossary("Scrollport")}}

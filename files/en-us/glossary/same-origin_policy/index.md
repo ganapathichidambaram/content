@@ -13,7 +13,7 @@ It helps isolate potentially malicious documents, reducing possible attack vecto
 ## See also
 
 - [Same-origin policy](/en-US/docs/Web/Security/Same-origin_policy)
-- [MDN Web Docs Glossary](/en-US/docs/Glossary):
+- [TechnoBureau Docs Glossary](/en-US/docs/Glossary):
 
   - {{Glossary("CORS")}}
   - {{Glossary("origin")}}

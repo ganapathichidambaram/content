@@ -70,6 +70,6 @@ For the above example, the syntax is as follows:
 ## See also
 
 - {{interwiki("wikipedia", "Control_flow#Loops","Control flow")}} on Wikipedia
-- [MDN Web Docs Glossary](/en-US/docs/Glossary)
+- [TechnoBureau Docs Glossary](/en-US/docs/Glossary)
 
   - {{Glossary("Loop")}}

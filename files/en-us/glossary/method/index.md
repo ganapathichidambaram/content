@@ -15,7 +15,7 @@ A **method** is a {{glossary("function")}} which is a {{glossary("property")}} o
 - {{InterWiki("wikipedia","Method (computer programming)")}} in Wikipedia
 - [Defining a method in JavaScript](/en-US/docs/Web/JavaScript/Reference/Functions/Method_definitions) (comparison of the traditional syntax and the new shorthand)
 - [List of JavaScript built-in methods](/en-US/docs/Web/JavaScript/Reference)
-- [MDN Web Docs Glossary](/en-US/docs/Glossary)
+- [TechnoBureau Docs Glossary](/en-US/docs/Glossary)
 
   - {{Glossary("function")}}
   - {{Glossary("object")}}

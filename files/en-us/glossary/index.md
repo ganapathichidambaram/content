@@ -1,5 +1,5 @@
 ---
-title: 'MDN Web Docs Glossary: Definitions of Web-related terms'
+title: 'TechnoBureau Docs Glossary: Definitions of Web-related terms'
 slug: Glossary
 tags:
   - Beginner
@@ -20,6 +20,6 @@ Glossary terms can be selected from the sidebar (or listed below on mobile devic
 
 <section id="Quick_links">
  <ol>
-  <li><strong><a href="/en-US/docs/Glossary">MDN Web Docs Glossary</a></strong>{{ListSubpagesForSidebar("/en-us/docs/Glossary", 1)}}</li>
+  <li><strong><a href="/en-US/docs/Glossary">TechnoBureau Docs Glossary</a></strong>{{ListSubpagesForSidebar("/en-us/docs/Glossary", 1)}}</li>
  </ol>
 </section>

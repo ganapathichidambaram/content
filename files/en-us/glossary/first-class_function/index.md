@@ -96,7 +96,7 @@ We are using double parentheses `()()` to invoke the returned function as well.
 ## See also
 
 - {{Interwiki("wikipedia", "First-class_function", "First-class functions")}} on Wikipedia
-- [MDN Web Docs Glossary](/en-US/docs/Glossary)
+- [TechnoBureau Docs Glossary](/en-US/docs/Glossary)
 
   - {{glossary("Callback function")}}
   - {{glossary("Function")}}

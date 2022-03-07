@@ -93,7 +93,7 @@ Symbol.keyFor(Symbol.for("tokenString")) === "tokenString" // true
 - [Symbols in ECMAScript 6](https://2ality.com/2014/12/es6-symbols.html)
 - {{jsxref("Symbol")}} in the MDN JS reference
 - {{jsxref("Object.getOwnPropertySymbols()")}}
-- [MDN Web Docs Glossary](/en-US/docs/Glossary)
+- [TechnoBureau Docs Glossary](/en-US/docs/Glossary)
 
   - {{Glossary("JavaScript")}}
   - {{Glossary("Primitive")}}

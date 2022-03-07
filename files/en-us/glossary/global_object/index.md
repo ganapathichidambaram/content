@@ -61,7 +61,7 @@ greeting: function greeting() {
 
 ## See also
 
-- [MDN Web Docs Glossary](/en-US/docs/Glossary)
+- [TechnoBureau Docs Glossary](/en-US/docs/Glossary)
 
   - {{glossary("global scope")}}
   - {{glossary("object")}}

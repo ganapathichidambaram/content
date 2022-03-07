@@ -22,7 +22,7 @@ Within a text file such as an HTML file, elements are _marked up_ using {{glossa
 
 ## See also
 
-- [MDN Web Docs Glossary](/en-US/docs/Glossary)
+- [TechnoBureau Docs Glossary](/en-US/docs/Glossary)
 
   - {{Glossary("HTML")}}
   - {{Glossary("XHTML")}}

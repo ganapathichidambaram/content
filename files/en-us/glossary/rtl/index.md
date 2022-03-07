@@ -14,7 +14,7 @@ The opposite of RTL, LTR (Left To Right) is used in other languages, including E
 
 ## See also
 
-- [MDN Web Docs Glossary](/en-US/docs/Glossary)
+- [TechnoBureau Docs Glossary](/en-US/docs/Glossary)
 
   - {{Glossary("Localization")}}
   - {{Glossary("LTR", "LTR (Left to Right)")}}

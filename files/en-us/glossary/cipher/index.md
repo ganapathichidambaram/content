@@ -24,7 +24,7 @@ They also are classified according to how their {{glossary("key", "keys")}} are 
 
 - {{Interwiki("wikipedia", "Cipher")}} on Wikipedia
 - [Encryption and Decryption](/en-US/docs/Archive/Security/Encryption_and_Decryption)
-- [MDN Web Docs Glossary](/en-US/docs/Glossary)
+- [TechnoBureau Docs Glossary](/en-US/docs/Glossary)
 
   - {{Glossary("Block cipher mode of operation")}}
   - {{Glossary("Cipher")}}
