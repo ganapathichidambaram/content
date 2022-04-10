@@ -17,8 +17,3 @@ To implement TCP slow start, the congestion window (_cwnd_) sets an upper limit 
 ## Congestion control
 
 Congestion itself is a state that happens within a network layer when the message traffic is too busy it slows the network response time. The server sends data in TCP packets, the user's client then confirms delivery by returning acknowledgements, or ACKs. The connection has a limited capacity depending on hardware and network conditions. If the server sends too many packets too quickly, they will be dropped. Meaning, there will be no acknowledgement. The server registers this as missing ACKs. Congestion control algorithms use this flow of sent packets and ACKs to determine a send rate.
-
-## See also
-
-- [Populating the page: how browsers work](/en-US/docs/Web/Performance/How_browsers_work)
-- [http overview](/en-US/docs/Web/HTTP/Overview)

@@ -10,4 +10,3 @@ In the context of the {{Glossary("DOM")}}, a **node** is a single point in the n
 ## See also
 
 - The [node tree](https://dom.spec.whatwg.org/#concept-node) WHATWG spec
-- [Node](/en-US/docs/Web/API/Node) objects

@@ -12,8 +12,6 @@ A **protocol** is a system of rules that define how data is exchanged within or 
 
 - {{Interwiki("wikipedia", "Communications protocol")}} on Wikipedia
 - [RFC Official Internet Protocol Standards](https://www.rfc-editor.org/search/standards.php)
-- [HTTP overview](/en-US/docs/Web/HTTP/Overview)
 - Glossary:
 
   - {{glossary("TCP")}}
-  - {{glossary("Packet")}}

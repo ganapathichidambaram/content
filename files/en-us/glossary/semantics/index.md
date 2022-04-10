@@ -25,7 +25,7 @@ In HTML, for example, the {{htmlelement("h1")}} element is a semantic element, w
 <h1>This is a top level heading</h1>
 ```
 
-By default, most browser's [user agent stylesheet](/en-US/docs/Web/CSS/Cascade#user-agent_stylesheets) will style an {{htmlelement("h1")}} with a large font size to make it _look_ like a heading (although you could style it to look like anything you wanted).
+By default, most browser's user agent stylesheet will style an {{htmlelement("h1")}} with a large font size to make it _look_ like a heading (although you could style it to look like anything you wanted).
 
 On the other hand, you could make any element _look_ like a top level heading. Consider the following:
 
@@ -35,7 +35,7 @@ On the other hand, you could make any element _look_ like a top level heading. C
 
 This will render it to look like a top level heading, but it has no semantic value, so it will not get any extra benefits as described above. It is therefore a good idea to use the right HTML element for the right job.
 
-HTML should be coded to represent the _data_ that will be populated and not based on its default presentation styling. Presentation (how it should look), is the sole responsibility of [CSS](/en-US/docs/Web/CSS).
+HTML should be coded to represent the _data_ that will be populated and not based on its default presentation styling. Presentation (how it should look), is the sole responsibility of CSS.
 
 Some of the benefits from writing semantic markup are as follows:
 
@@ -49,7 +49,7 @@ When approaching which markup to use, ask yourself, "What element(s) best descri
 
 ## Semantic elements
 
-These are _some_ of the roughly 100 semantic [elements](/en-US/docs/Web/HTML/Element) available:
+These are _some_ of the roughly 100 semantic elements available:
 
 - {{htmlelement("article")}}
 - {{htmlelement("aside")}}
@@ -67,8 +67,6 @@ These are _some_ of the roughly 100 semantic [elements](/en-US/docs/Web/HTML/Ele
 
 ## See also
 
-- [HTML element reference](/en-US/docs/Web/HTML/Element#inline_text_semantics) on MDN
-- [Using HTML sections and outlines](/en-US/docs/Web/HTML/Element/Heading_Elements#problems_solved_by_html5) on MDN
 - {{interwiki("wikipedia", "Semantics#Computer_science", "The meaning of semantics in computer science")}} on Wikipedia
 - [Glossary](/en-US/docs/Glossary)
 

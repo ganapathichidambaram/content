@@ -9,5 +9,4 @@ A web server is a piece of software that often runs on a hardware server offerin
 
 ## See also
 
-- [Introduction to servers](/en-US/docs/Learn/Common_questions/What_is_a_web_server)
 - {{Interwiki("wikipedia", "Server (computing)")}} on Wikipedia

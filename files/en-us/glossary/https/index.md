@@ -13,7 +13,6 @@ tags:
 
 - {{Interwiki("wikipedia", "HTTPS")}} on Wikipedia
 - [Moving to HTTPS community guide](https://movingtohttps.com/)
-- [Secure Contexts](/en-US/docs/Web/Security/Secure_Contexts)
 - [TechnoBureau Docs Glossary](/en-US/docs/Glossary)
 
   - {{glossary("HTTP")}}

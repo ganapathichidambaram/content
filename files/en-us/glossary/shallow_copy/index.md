@@ -7,7 +7,7 @@ tags:
 ---
 {{MDNSidebar}}
 
-A **shallow copy** of an object is a copy whose properties share the same references (point to the same underlying values) as those of the source object from which the copy was made. As a result, when you change either the source or the copy, you may also cause the other object to change too — and so, you may end up unintentionally causing changes to the source or copy that you don't expect. That behavior contrasts with the behavior of a [deep copy](/en-US/docs/Glossary/Deep_copy), in which the source and copy are completely independent.
+A **shallow copy** of an object is a copy whose properties share the same references (point to the same underlying values) as those of the source object from which the copy was made. As a result, when you change either the source or the copy, you may also cause the other object to change too — and so, you may end up unintentionally causing changes to the source or copy that you don't expect. That behavior contrasts with the behavior of a deep copy, in which the source and copy are completely independent.
 
 For shallow copies, it's important to understand that selectively changing the value of a shared property of an existing element in an object is different from assigning a completely new value to an existing element.
 
@@ -15,7 +15,7 @@ For example, if in a shallow copy named `copy` of an array object, the value of 
 
 However, if instead you do `copy[0] = {"list":["oil","flour"]}`, then the corresponding element in the source object **will not change** — because in that case, you're not just selectively changing a property of an existing array element that the shallow copy shares with the source object; instead you're actually assigning a completely new value to that `copy[0]` array element, just in the shallow copy.
 
-In JavaScript, all standard built-in object-copy operations ([spread syntax](/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax), [`Array.prototype.concat()`](/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/concat), [`Array.prototype.slice()`](/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice), [`Array.from()`](/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/from), [`Object.assign()`](/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/assign), and [`Object.create()`](/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/create)) create shallow copies rather than deep copies.
+In JavaScript, all standard built-in object-copy operations spread syntax, `Array.prototype.concat()`, `Array.prototype.slice()`, `Array.from()`, `Object.assign()`, and `Object.create()` create shallow copies rather than deep copies.
 
 ## Example
 
@@ -51,6 +51,3 @@ console.log(JSON.stringify(ingredients_list));
 // ["noodles",{"list":["rice flour","water"]}]
 ```
 
-## See also
-
-- [Deep copy](/en-US/docs/Glossary/Deep_copy)

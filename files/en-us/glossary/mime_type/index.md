@@ -13,7 +13,3 @@ It serves the same purpose as filename extensions traditionally do on Windows. T
 
 - {{interwiki("wikipedia", "Internet media type", "Internet media type")}} on Wikipedia
 - [List of MIME types](https://www.iana.org/assignments/media-types/media-types.xhtml)
-- [Properly Configuring Server MIME Types](/en-US/docs/Learn/Server-side/Configuring_server_MIME_types)
-- Details information about the usage of [MIME Types](/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types) in a Web context.
-- [Incomplete list of MIME types](/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types/Common_types)
-- [MediaRecorder.mimeType](/en-US/docs/Web/API/MediaRecorder/mimeType)

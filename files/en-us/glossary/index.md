@@ -14,7 +14,7 @@ Web technologies contain long lists of jargon and abbreviations that are used in
 
 Glossary terms can be selected from the sidebar (or listed below on mobile devices and other narrow width screens).
 
-> **Note:** This glossary is a never-ending work in progress. You can help improve it by [writing new entries](/en-US/docs/MDN/Contribute/Howto/Write_a_new_entry_in_the_Glossary) or by making the existing ones better.
+> **Note:** This glossary is a never-ending work in progress. You can help improve it by writing new entries or by making the existing ones better.
 
 {{LearnBox({"title":"Learn a new word ..."})}}
 
