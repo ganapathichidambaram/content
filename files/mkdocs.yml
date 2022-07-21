@@ -1,0 +1,29 @@
+site_name: TechnoBureau
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.instant
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.indexes
+    - navigation.top
+    - navigation.prune
+    #- toc.integrate
+#    - toc.follow
+# nav:
+#   - Home: learn/index.md
+#   - Tools: tools/index.md
+#   - Glossary: glossary/index.md
+site_author : Ganapathi Chidambaram
+copyright: Copyright &copy; 2016 - 2022 TechnoBureau
+# nav:
+#   - ... | index.md
+#   - Learn: learn
+#   - Tools: tools
+#   - Glossary: glossary
+plugins:
+  - tags
+extra:
+  generator: false
